@@ -1,6 +1,8 @@
 # The-Adventure-Space-Invaders-
 Este fue uno de los primero juegos que cree en Unity con C#. Es un plagio de uno de los juegos clasicos ya conocidos (Space Invaders) pero con mi toque personal
 
+![Demostración del Juego](clip1.gif)
+
 # Proyecto Unity - Versión Construida
 
 Este repositorio contiene **únicamente** la versión final construida del juego y **no** el código fuente ni los recursos utilizados para desarrollarlo.
@@ -11,5 +13,3 @@ La versión construida es el resultado final después de compilar y empaquetar e
 ### ¿Por qué no está incluido el código fuente?
 El propósito de este repositorio es distribuir la versión ejecutable del juego. Si estás buscando el código fuente no es posible, puesto que perdi la mayoria de mis trabajos debidos a un error de mi ordenador y solo tengo los trabajos subidos a mi google Drive.
 
-
-![Demostración del Juego](clip1.gif)
