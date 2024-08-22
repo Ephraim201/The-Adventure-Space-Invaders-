@@ -12,3 +12,4 @@ La versión construida es el resultado final después de compilar y empaquetar e
 El propósito de este repositorio es distribuir la versión ejecutable del juego. Si estás buscando el código fuente no es posible, puesto que perdi la mayoria de mis trabajos debidos a un error de mi ordenador y solo tengo los trabajos subidos a mi google Drive.
 
 
+![Demostración del Juego](clip1.gif)
